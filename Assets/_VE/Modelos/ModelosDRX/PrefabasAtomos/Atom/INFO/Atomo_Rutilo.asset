@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5450244004716f94b8f5cfb0fddb9870, type: 3}
+  m_Name: Atomo_Rutilo
+  m_EditorClassIdentifier: 
+  ColorBase: {r: 0, g: 0, b: 0, a: 0}
+  atomoPrefab: {fileID: 919132149155446097, guid: b077f6cc04f12f34b8abad7ddf8d463d,
+    type: 3}
+  nombreAtomo: Rutilo
+  infoAtomo: "Descripci\xF3n: \xD3xido de titanio en forma mineral.\r\nAplicaciones:
+    Usado en pigmentos, en cer\xE1mica y como fuente de titanio en metalurgia."
+  CellPara:
+  - 4.594
+  - 4.594
+  - 2.9586
+  - 90
+  - 90
+  - 90
+  SpaceGru: 'P4_2/mnm  '
+  X_Ray: 1.541838
+  CellVol: 62.441
+  Density: 4.21
+  Max_Abs: 46.00278
+  RIR: 3.558

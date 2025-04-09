@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5450244004716f94b8f5cfb0fddb9870, type: 3}
+  m_Name: Atomo_ platino
+  m_EditorClassIdentifier: 
+  ColorBase: {r: 0, g: 0, b: 0, a: 0}
+  atomoPrefab: {fileID: 919132149155446097, guid: d48a3567c5211554bb0ac1ff3e0d82d3,
+    type: 3}
+  nombreAtomo: Platino
+  infoAtomo: "Descripci\xF3n: Metal raro, denso y muy resistente a la corrosi\xF3n.\r\nAplicaciones:
+    Usado en catalizadores, joyer\xEDa, dispositivos m\xE9dicos, y componentes de
+    autom\xF3viles."
+  CellPara:
+  - 3.9231
+  - 3.9231
+  - 3.9231
+  - 90
+  - 90
+  - 90
+  SpaceGru: Fm3m
+  X_Ray: 1.541838
+  CellVol: 60.379
+  Density: 21.457
+  Max_Abs: 1941.0563
+  RIR: 29.456

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5450244004716f94b8f5cfb0fddb9870, type: 3}
+  m_Name: Atomo_Ilmenita
+  m_EditorClassIdentifier: 
+  ColorBase: {r: 0, g: 0, b: 0, a: 0}
+  atomoPrefab: {fileID: 919132149155446097, guid: 64d4d5a8e6ad6af42bb63e9a95c3b7c5,
+    type: 3}
+  nombreAtomo: Ilmenita
+  infoAtomo: "Descripci\xF3n: \xD3xido de hierro y titanio.\r\nAplicaciones: Principal
+    fuente de titanio, utilizado en pigmentos, metalurgia y fabricaci\xF3n de pl\xE1sticos."
+  CellPara:
+  - 5.0884
+  - 5.0884
+  - 14.0855
+  - 90
+  - 90
+  - 120
+  SpaceGru: R-3
+  X_Ray: 1.541838
+  CellVol: 315.839
+  Density: 4.785
+  Max_Abs: 45.107285
+  RIR: 3.069

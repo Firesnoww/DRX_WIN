@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5450244004716f94b8f5cfb0fddb9870, type: 3}
+  m_Name: Atomo_Yeso
+  m_EditorClassIdentifier: 
+  ColorBase: {r: 0, g: 0, b: 0, a: 0}
+  atomoPrefab: {fileID: 919132149155446097, guid: a67ffca600f3f304ea40c3aa95212f91,
+    type: 3}
+  nombreAtomo: Yeso
+  infoAtomo: "Descripci\xF3n: Mineral de sulfato de calcio hidratado, suave y com\xFAn.\r\nAplicaciones:
+    Utilizado en la construcci\xF3n (como material de yeso), agricultura, y en escayolas
+    m\xE9dicas."
+  CellPara:
+  - 5.674
+  - 15.1049
+  - 6.4909
+  - 90
+  - 118.513
+  - 90
+  SpaceGru: I2/a
+  X_Ray: 1.541838
+  CellVol: 488.829
+  Density: 2.339
+  Max_Abs: 12.047104
+  RIR: 1.677

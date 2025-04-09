@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5450244004716f94b8f5cfb0fddb9870, type: 3}
+  m_Name: Atomo_Galena
+  m_EditorClassIdentifier: 
+  ColorBase: {r: 0, g: 0, b: 0, a: 0}
+  atomoPrefab: {fileID: 919132149155446097, guid: 9445f74a4010b814798f4a3ebdc15db8,
+    type: 3}
+  nombreAtomo: Galena
+  infoAtomo: "Descripci\xF3n: Sulfuro de plomo, el principal mineral de plomo.\r\nAplicaciones:
+    Usada en la extracci\xF3n de plomo y en la fabricaci\xF3n de bater\xEDas y protecci\xF3n
+    contra radiaci\xF3n."
+  CellPara:
+  - 5.93
+  - 5.93
+  - 5.93
+  - 90
+  - 90
+  - 90
+  SpaceGru: Fm3m
+  X_Ray: 1.541838
+  CellVol: 208.528
+  Density: 7.62
+  Max_Abs: 385.31195
+  RIR: 16.465

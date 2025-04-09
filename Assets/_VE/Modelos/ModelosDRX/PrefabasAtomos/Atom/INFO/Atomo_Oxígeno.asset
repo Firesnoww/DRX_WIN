@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5450244004716f94b8f5cfb0fddb9870, type: 3}
+  m_Name: "Atomo_Ox\xEDgeno"
+  m_EditorClassIdentifier: 
+  ColorBase: {r: 0, g: 0, b: 0, a: 0}
+  atomoPrefab: {fileID: 919132149155446097, guid: dacc5b1b5ba8b884fb77fcce9dad0aac,
+    type: 3}
+  nombreAtomo: "Ox\xEDgeno"
+  infoAtomo: "Descripci\xF3n: Gas no met\xE1lico, esencial para la vida y muy abundante
+    en la corteza terrestre.\r\nAplicaciones: Fundamental en la respiraci\xF3n, combusti\xF3n,
+    y como componente de agua y \xF3xidos."
+  CellPara:
+  - 4.2151
+  - 2.9567
+  - 6.6897
+  - 90
+  - 90
+  - 90
+  SpaceGru: Fmmm
+  X_Ray: 1.541838
+  CellVol: 83.372
+  Density: 2.549
+  Max_Abs: 20.180164
+  RIR: 2.578

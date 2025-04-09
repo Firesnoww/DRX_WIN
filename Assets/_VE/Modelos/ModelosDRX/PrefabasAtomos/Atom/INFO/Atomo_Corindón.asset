@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5450244004716f94b8f5cfb0fddb9870, type: 3}
+  m_Name: "Atomo_Corind\xF3n"
+  m_EditorClassIdentifier: 
+  ColorBase: {r: 0, g: 0, b: 0, a: 0}
+  atomoPrefab: {fileID: 919132149155446097, guid: 1e7b529d067771c47982d81167d84971,
+    type: 3}
+  nombreAtomo: "Corind\xF3n"
+  infoAtomo: "Descripci\xF3n: \xD3xido de aluminio extremadamente duro, que forma
+    gemas como el zafiro y el rub\xED.\r\nAplicaciones: Usado como abrasivo, en herramientas
+    de corte, y en gemolog\xEDa."
+  CellPara:
+  - 4.7602
+  - 4.7602
+  - 12.9933
+  - 90
+  - 90
+  - 120
+  SpaceGru: R-3c
+  X_Ray: 1.541838
+  CellVol: 254.977
+  Density: 3.984
+  Max_Abs: 12.2354555
+  RIR: 1

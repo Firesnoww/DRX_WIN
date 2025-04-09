@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5450244004716f94b8f5cfb0fddb9870, type: 3}
+  m_Name: Atomo_Silicio
+  m_EditorClassIdentifier: 
+  ColorBase: {r: 0, g: 0, b: 0, a: 0}
+  atomoPrefab: {fileID: 919132149155446097, guid: 32498fcb050efdd4abca36c79c2f0ac8,
+    type: 3}
+  nombreAtomo: Silicio
+  infoAtomo: "Descripci\xF3n: Elemento semimet\xE1lico con estructura c\xFAbica de
+    diamante.\r\nAplicaciones: Fundamental en la electr\xF3nica (chips y semiconductores),
+    vidrios y paneles solares."
+  CellPara:
+  - 6.636
+  - 6.636
+  - 6.636
+  - 90
+  - 90
+  - 90
+  SpaceGru: Ia3
+  X_Ray: 1.541838
+  CellVol: 292.226
+  Density: 2.553
+  Max_Abs: 30.389986
+  RIR: 3.876

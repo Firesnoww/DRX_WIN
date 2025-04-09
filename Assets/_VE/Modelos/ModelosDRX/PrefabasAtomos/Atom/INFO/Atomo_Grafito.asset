@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5450244004716f94b8f5cfb0fddb9870, type: 3}
+  m_Name: Atomo_Grafito
+  m_EditorClassIdentifier: 
+  ColorBase: {r: 0, g: 0, b: 0, a: 0}
+  atomoPrefab: {fileID: 919132149155446097, guid: 14780cab418c4f645a577da937229dd7,
+    type: 3}
+  nombreAtomo: Grafito
+  infoAtomo: "Descripci\xF3n: Forma de carbono con estructura hexagonal.\r\nAplicaciones:
+    Usado en l\xE1pices, lubricantes, y como material conductor en bater\xEDas y
+    electrodos."
+  CellPara:
+  - 4.048
+  - 4.885
+  - 6.495
+  - 90
+  - 90
+  - 90
+  SpaceGru: Pban
+  X_Ray: 1.541838
+  CellVol: 128.435
+  Density: 2.484
+  Max_Abs: 11.884835
+  RIR: 1.558

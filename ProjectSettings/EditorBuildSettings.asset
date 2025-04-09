@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/_VE/Scenes/Graficos/Test/Servidor.unity
+    guid: bc2601099b95fe1499aa10d66c02eb22
+  - enabled: 0
+    path: Assets/_VE/Scenes/Constructores/C_Personalizacion.unity
+    guid: 415aba4a38a52ac4f981fd0b13bb8394
+  - enabled: 0
+    path: Assets/_VE/Scenes/Interactivos/WI_Personalizacion.unity
+    guid: 212541997afe93441ad572c23c364583
+  - enabled: 0
+    path: Assets/_VE/Scenes/Interactivos/VR_Lobby.unity
+    guid: fbc272e9d04283f498e8dd75fbc2444a
+  - enabled: 1
+    path: Assets/_VE/Scenes/Constructores/C_Login.unity
+    guid: 211ca8a18014b2144b2c3b59881bbc53
+  - enabled: 1
+    path: Assets/_VE/Scenes/Constructores/C_DRX.unity
+    guid: 51038afc2ac1c5748b482c4f822e6b99
+  - enabled: 0
+    path: Assets/_VE/Scenes/Graficos/Lobby/LP_Lobby.unity
+    guid: 5df8f0525ca9860469dde0f5e19c2f70
+  - enabled: 0
+    path: Assets/_VE/Scenes/Constructores/C_Artcraft.unity
+    guid: fb499a139ccf88244a1872c987399af2
+  - enabled: 0
+    path: Assets/_VE/Scenes/Constructores/C_Lobby.unity
+    guid: 0ebebeb154294b5459e1837b7ddb0831
+  - enabled: 0
+    path: Assets/_VE/Scenes/Graficos/Personalizacion/LP_Personalizacion.unity
+    guid: cfd1d6ea5799729469a1f60ab2837d25
+  - enabled: 0
+    path: Assets/_VE/Scenes/Constructores/C_Taller.unity
+    guid: ba2097ce6d8de3246bd731d618cc3c44
+  - enabled: 0
+    path: Assets/_VE/Scenes/Interactivos/WI_Taller.unity
+    guid: b1443c414c5b29e4a90d6a6001aa77a3
+  - enabled: 0
+    path: Assets/_VE/Scenes/Graficos/Taller Ensamble/HP_Taller.unity
+    guid: d0528939563310b409aeb98328a7a360
+  - enabled: 0
+    path: Assets/_VE/Scenes/Interactivos/WI_Login.unity
+    guid: d18f3b6905bf02c41b3452346dc0ceae
+  - enabled: 0
+    path: Assets/_VE/Scenes/Interactivos/WI_Pista.unity
+    guid: 00d54c5ad0a49d447b4e4ab7e39b3336
+  - enabled: 0
+    path: Assets/_VE/Scenes/Constructores/C_Pista.unity
+    guid: 942f7528b7452c84ca38607e47d946e3
+  - enabled: 0
+    path: Assets/_VE/Scenes/Graficos/Pista/HP_Pista.unity
+    guid: 05f503d5301d10b488bd1b2760c59d5f
+  - enabled: 1
+    path: Assets/_VE/Scenes/Interactivos/VR_Login.unity
+    guid: 6b8148c427abc404f95fe5a4a1eb5a49
+  - enabled: 1
+    path: Assets/_VE/Scenes/Graficos/Login/LP_Login.unity
+    guid: de43cba875160e042b3d95464dedf3bf
+  - enabled: 0
+    path: Assets/_VE/Scenes/Interactivos/WI_Lobby.unity
+    guid: 3cb50d751fb7ed24ea2c30084433e1e0
+  - enabled: 0
+    path: Assets/_VE/Scenes/Interactivos/VR_Taller.unity
+    guid: 59d7d9eec5f9e7540bb727913ba70ad3
+  - enabled: 0
+    path: Assets/_VE/Scenes/Interactivos/VR_Personalizacion.unity
+    guid: dda9822a40801ea478c0c5a6b48a0ca1
+  - enabled: 0
+    path: Assets/_VE/Scenes/Interactivos/VR_Pista.unity
+    guid: b9c5354be624c16489ec0e7f381aa54e
+  - enabled: 1
+    path: Assets/_VE/Scenes/Graficos/DRX/LP_DRX.unity
+    guid: 46ef9b20cdb8ada458107acb498aa81f
+  - enabled: 1
+    path: Assets/_VE/Scenes/Interactivos/VR_DRX.unity
+    guid: 9e73b87e9cf79da4abdc3754e0256512
+  - enabled: 0
+    path: Assets/_VE/Scenes/Constructores/C_Login.unity
+    guid: 211ca8a18014b2144b2c3b59881bbc53
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b9e1065f576710d419be5295969237d6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f1befe0f22c101649bf7eb9a8a9d20f0,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 284d8e6d9aafbee4cb54752f6f1d6280,
+      type: 2}

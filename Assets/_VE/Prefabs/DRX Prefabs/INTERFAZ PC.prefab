@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6782811831019918422
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6782811831019918421}
+  - component: {fileID: 6782811831019918420}
+  m_Layer: 0
+  m_Name: INTERFAZ PC
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6782811831019918421
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6782811831019918422}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.2614098, y: 2.0103283, z: -43.435448}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6782811831019918420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6782811831019918422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1da48cb87330e9f498e9ce63e9e85df7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  plataforma: 0
+  Estado: 0
+  Interfaz_Android_PC: []
+  InterfazVr: []
+  InfoNombre: []
+  SpaceGru: []
+  X_Ray: []
+  CellVol: []
+  Density: []
+  Max_Abs: []
+  RIR: []
+  barrasRef_Android_PC: []
+  barrasRef_Vr: []
+  XRayJugador: []
+  CellVolJugador: []
+  DensityJugador: []
+  Max_AbsJugador: []
+  RIRJugador: []
+  barrasJugador_Android_Pc: []
+  barrasJugador_Vr: []
+  sliderXRay: []
+  sliderCellVol: []
+  sliderDensity: []
+  sliderMaxAbs: []
+  sliderRIR: []
+  slidersBarras_Android_Pc: []
+  slidersBarras_Vr: []

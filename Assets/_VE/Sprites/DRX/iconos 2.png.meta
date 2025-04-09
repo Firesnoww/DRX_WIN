@@ -1,0 +1,904 @@
+fileFormatVersion: 2
+guid: 2d6bfa75bb36018419def7d119147fd9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: iconos 2_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 630
+        width: 553
+        height: 391
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f53b7047943087489dc9676b0637744
+      internalID: -97141112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos 2_1
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 690
+        width: 197
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4164314, y: 0.35594055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15042cfb28ce76541b8a854398266d6e
+      internalID: -362873165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos 2_2
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 693
+        width: 165
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38850114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08574cb6a588d84bb656d61470f0cc6
+      internalID: 411399067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos 2_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 242
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df2a0ec5e2bd3e40b1652383913c0dc
+      internalID: 652642794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos 2_589
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 582
+        height: 394
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449bfbeda448a824c8b5ab2d20faa1ab
+      internalID: 302547872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos 2_590
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 392
+        height: 399
+      alignment: 9
+      pivot: {x: 0.50159514, y: 0.47544757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791d49ab8ab4f474791968cd3f659dd8
+      internalID: 1844942851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos 2_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 397
+        width: 231
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6d71d9c82f5934db46972845757c0f
+      internalID: -1328056531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos 2_4
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 397
+        width: 237
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6739e7c3ffab04d91b7f9db6a78d3f
+      internalID: 1353782586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconos 2_5
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 406
+        width: 285
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36fbf53c28445c449ecb7443d97e906
+      internalID: 645814426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      iconos 2_296: 972468977
+      iconos 2_385: 1618372389
+      iconos 2_294: -332123420
+      iconos 2_532: 1118454246
+      iconos 2_401: 1670838455
+      iconos 2_32: 221309390
+      iconos 2_573: -2070328753
+      iconos 2_429: -65260183
+      iconos 2_474: 1831647648
+      iconos 2_80: -431796602
+      iconos 2_291: -1984501078
+      iconos 2_389: 1312357145
+      iconos 2_31: 1186274179
+      iconos 2_145: -1355586954
+      iconos 2_4: 1353782586
+      iconos 2_481: -4949823
+      iconos 2_463: 1649601178
+      iconos 2_143: 36193984
+      iconos 2_93: 1506700816
+      iconos 2_229: -377069130
+      iconos 2_309: 892487065
+      iconos 2_138: 2101842852
+      iconos 2_318: 76257962
+      iconos 2_164: -449954116
+      iconos 2_192: 620251770
+      iconos 2_524: 1713508403
+      iconos 2_172: 598523356
+      iconos 2_96: -1828646471
+      iconos 2_307: 1771295556
+      iconos 2_250: 311797263
+      iconos 2_523: 328536420
+      iconos 2_298: 613259210
+      iconos 2_167: -1046219076
+      iconos 2_458: -1398827047
+      iconos 2_498: 645070137
+      iconos 2_500: 163134746
+      iconos 2_415: -1740927463
+      iconos 2_242: -1400763634
+      iconos 2_411: -938702026
+      iconos 2_578: -293508145
+      iconos 2_62: -1692290492
+      iconos 2_182: -113304505
+      iconos 2_293: -1856682822
+      iconos 2_390: -1601849714
+      iconos 2_529: -1333795621
+      iconos 2_194: -339251897
+      iconos 2_38: -1269012222
+      iconos 2_360: -1889715010
+      iconos 2_373: -333113781
+      iconos 2_551: 969367798
+      iconos 2_484: 1919320871
+      iconos 2_9: 1732579572
+      iconos 2_110: 652642794
+      iconos 2_208: 1876442226
+      iconos 2_514: 478003468
+      iconos 2_77: 114950390
+      iconos 2_442: -62112123
+      iconos 2_334: -1901771942
+      iconos 2_20: -907068433
+      iconos 2_56: 2018295733
+      iconos 2_64: -1266493836
+      iconos 2_545: 1613897794
+      iconos 2_255: 839748969
+      iconos 2_408: 1788112043
+      iconos 2_565: -89847277
+      iconos 2_367: -636143971
+      iconos 2_590: 1844942851
+      iconos 2_263: -1048651070
+      iconos 2_45: 779080931
+      iconos 2_525: 933404645
+      iconos 2_50: -1110873840
+      iconos 2_189: -302464431
+      iconos 2_402: 1642297314
+      iconos 2_166: 172560622
+      iconos 2_329: -1726360421
+      iconos 2_53: 1669986180
+      iconos 2_271: -361663696
+      iconos 2_461: -1041922011
+      iconos 2_333: 2099210425
+      iconos 2_153: 366112355
+      iconos 2_241: -1209113190
+      iconos 2_512: -365114296
+      iconos 2_269: -1266750322
+      iconos 2_244: -2118085034
+      iconos 2_100: 2136830339
+      iconos 2_17: -1650108889
+      iconos 2_387: 1905955522
+      iconos 2_131: -542221701
+      iconos 2_68: -1877281753
+      iconos 2_224: 1353350201
+      iconos 2_564: 1384195478
+      iconos 2_161: 732436289
+      iconos 2_310: -289278950
+      iconos 2_235: -856538822
+      iconos 2_107: 1531590629
+      iconos 2_44: 1748411372
+      iconos 2_353: -1635567563
+      iconos 2_388: 1964377778
+      iconos 2_344: -960721148
+      iconos 2_339: 933798156
+      iconos 2_399: -942420588
+      iconos 2_11: 1148803652
+      iconos 2_504: 1376121782
+      iconos 2_539: -1108414605
+      iconos 2_151: 750966799
+      iconos 2_284: 1011809861
+      iconos 2_33: -680267776
+      iconos 2_404: -1891943489
+      iconos 2_465: 1995542195
+      iconos 2_297: -1138280914
+      iconos 2_82: -921982786
+      iconos 2_559: 1276029834
+      iconos 2_454: 630139615
+      iconos 2_435: -73443598
+      iconos 2_535: 2122760957
+      iconos 2_46: 1002448130
+      iconos 2_60: -2041634318
+      iconos 2_157: 2059328835
+      iconos 2_128: 1583352746
+      iconos 2_227: 400681558
+      iconos 2_322: -1147801031
+      iconos 2_495: -185117109
+      iconos 2_407: -524663553
+      iconos 2_168: -288483150
+      iconos 2_198: 46413569
+      iconos 2_460: -1205730291
+      iconos 2_561: -522454299
+      iconos 2_190: -28009407
+      iconos 2_398: 392662017
+      iconos 2_509: -1098955720
+      iconos 2_97: -369174127
+      iconos 2_558: 298415088
+      iconos 2_569: -150052956
+      iconos 2_264: -1689525216
+      iconos 2_320: -1919235020
+      iconos 2_147: 210680177
+      iconos 2_327: 562380238
+      iconos 2_183: 1698459499
+      iconos 2_135: 342927540
+      iconos 2_582: 1164347966
+      iconos 2_205: 1848227982
+      iconos 2_592: -562270865
+      iconos 2_178: -1050490544
+      iconos 2_533: -1475217840
+      iconos 2_152: -1684990281
+      iconos 2_179: -817004052
+      iconos 2_316: -2097641787
+      iconos 2_202: 347825921
+      iconos 2_363: -1889807097
+      iconos 2_223: 1655808257
+      iconos 2_173: 2050237298
+      iconos 2_232: 453177899
+      iconos 2_351: -1285483506
+      iconos 2_91: 962187845
+      iconos 2_247: 382322497
+      iconos 2_21: 1653547300
+      iconos 2_207: -1334984241
+      iconos 2_268: -1868651129
+      iconos 2_541: 1446741670
+      iconos 2_204: -1816744910
+      iconos 2_283: -1312069593
+      iconos 2_382: 516936051
+      iconos 2_115: -269106185
+      iconos 2_489: 1827695089
+      iconos 2_326: 1014109205
+      iconos 2_521: -103602312
+      iconos 2_400: 2000548477
+      iconos 2_368: 161276799
+      iconos 2_256: 1026076183
+      iconos 2_260: 608706612
+      iconos 2_5: 645814426
+      iconos 2_473: 852735986
+      iconos 2_414: 1279053982
+      iconos 2_563: 635733766
+      iconos 2_488: -610264516
+      iconos 2_34: -1847855099
+      iconos 2_231: 725191796
+      iconos 2_466: -1569229354
+      iconos 2_39: -48088630
+      iconos 2_6: 2122952903
+      iconos 2_121: 2095262699
+      iconos 2_273: 382236612
+      iconos 2_340: 2129387088
+      iconos 2_149: 1959393979
+      iconos 2_352: -1571433866
+      iconos 2_575: 1783447363
+      iconos 2_331: -1385494686
+      iconos 2_430: 14342122
+      iconos 2_576: -1366266428
+      iconos 2_286: 219169202
+      iconos 2_567: 1346908150
+      iconos 2_467: 1776435343
+      iconos 2_503: -1599593302
+      iconos 2_530: -2017304399
+      iconos 2_550: 54421769
+      iconos 2_98: -1949286728
+      iconos 2_163: 1306876381
+      iconos 2_431: -421651932
+      iconos 2_15: 576906240
+      iconos 2_125: -1475839692
+      iconos 2_543: -1092106157
+      iconos 2_254: 1094431205
+      iconos 2_79: -1243928298
+      iconos 2_470: 1561478194
+      iconos 2_290: -1276621133
+      iconos 2_547: -989004622
+      iconos 2_439: -786724437
+      iconos 2_66: -464071487
+      iconos 2_72: -991577416
+      iconos 2_169: 313781492
+      iconos 2_37: 678997513
+      iconos 2_52: -1393049490
+      iconos 2_69: 782318323
+      iconos 2_7: 284095694
+      iconos 2_87: 498145982
+      iconos 2_158: 727214692
+      iconos 2_355: 1034838353
+      iconos 2_127: -735746482
+      iconos 2_377: -1944433819
+      iconos 2_425: -1936834398
+      iconos 2_248: -498390781
+      iconos 2_485: -914679878
+      iconos 2_581: 1319061180
+      iconos 2_171: -1581276793
+      iconos 2_213: -177400027
+      iconos 2_258: -740965708
+      iconos 2_113: -1546626276
+      iconos 2_165: 1988654833
+      iconos 2_534: -1731202997
+      iconos 2_556: 2000541331
+      iconos 2_129: -1217215149
+      iconos 2_41: 813264035
+      iconos 2_42: 1921937206
+      iconos 2_226: -1808134216
+      iconos 2_209: 977429949
+      iconos 2_397: 1813751313
+      iconos 2_84: -1918486040
+      iconos 2_464: 1656797080
+      iconos 2_574: 410293165
+      iconos 2_364: -454788328
+      iconos 2_302: -566454967
+      iconos 2_432: -525276064
+      iconos 2_405: 918198781
+      iconos 2_531: 672149557
+      iconos 2_396: 1200076856
+      iconos 2_347: -576422269
+      iconos 2_35: -1439415453
+      iconos 2_47: -559708133
+      iconos 2_410: 305309511
+      iconos 2_412: -1445544728
+      iconos 2_451: 1174568953
+      iconos 2_30: -1699735202
+      iconos 2_73: -508811735
+      iconos 2_335: 483529128
+      iconos 2_446: 543363113
+      iconos 2_155: 278896160
+      iconos 2_475: 1665189278
+      iconos 2_246: -1878517377
+      iconos 2_579: -75461215
+      iconos 2_323: -299505930
+      iconos 2_139: 1414755190
+      iconos 2_141: -458177446
+      iconos 2_186: 2008145681
+      iconos 2_29: 2009491003
+      iconos 2_99: 1096811451
+      iconos 2_144: 169337063
+      iconos 2_160: -1807493801
+      iconos 2_105: -118937209
+      iconos 2_426: 1370194102
+      iconos 2_391: 1046374217
+      iconos 2_343: -26430792
+      iconos 2_356: -311636148
+      iconos 2_48: -793369251
+      iconos 2_366: 147037298
+      iconos 2_86: 1509941750
+      iconos 2_441: 1049075626
+      iconos 2_395: -1990092074
+      iconos 2_456: 727565477
+      iconos 2_468: 1765574224
+      iconos 2_457: 1212893315
+      iconos 2_510: -341726328
+      iconos 2_528: 206753301
+      iconos 2_546: 751401271
+      iconos 2_337: -852705777
+      iconos 2_586: 668328698
+      iconos 2_170: 1036153040
+      iconos 2_259: 50770222
+      iconos 2_416: 2127525601
+      iconos 2_116: 517424532
+      iconos 2_94: 2112834581
+      iconos 2_476: 1549648484
+      iconos 2_472: -1842277678
+      iconos 2_277: 184060968
+      iconos 2_424: -1094408718
+      iconos 2_90: -795037088
+      iconos 2_132: -507248260
+      iconos 2_272: 1927867378
+      iconos 2_312: 1735037315
+      iconos 2_222: -1734690685
+      iconos 2_336: -266407578
+      iconos 2_117: 1872202664
+      iconos 2_162: -684455618
+      iconos 2_67: 1627307028
+      iconos 2_571: 168198216
+      iconos 2_89: 1167560354
+      iconos 2_274: -999216653
+      iconos 2_109: -1904517761
+      iconos 2_417: 203152513
+      iconos 2_378: 1799711197
+      iconos 2_433: -2073400976
+      iconos 2_285: -42783828
+      iconos 2_81: 142380002
+      iconos 2_301: -924679242
+      iconos 2_134: 440024944
+      iconos 2_210: -1570868612
+      iconos 2_130: 1631913873
+      iconos 2_228: 1278615164
+      iconos 2_345: -501280251
+      iconos 2_85: 1530333454
+      iconos 2_562: -1392493085
+      iconos 2_452: 1096720738
+      iconos 2_276: -1994258993
+      iconos 2_584: 1562542473
+      iconos 2_71: -1094272743
+      iconos 2_508: -2023226383
+      iconos 2_471: 634978858
+      iconos 2_585: 268399350
+      iconos 2_221: 1832183626
+      iconos 2_403: 400799773
+      iconos 2_239: 42070753
+      iconos 2_61: -1059011523
+      iconos 2_557: 1905887081
+      iconos 2_159: -85420666
+      iconos 2_120: 1252834559
+      iconos 2_187: -2058657151
+      iconos 2_542: -599021402
+      iconos 2_156: -2133816225
+      iconos 2_486: -149250658
+      iconos 2_372: -500477822
+      iconos 2_136: -550383568
+      iconos 2_0: -97141112
+      iconos 2_548: 1196475774
+      iconos 2_314: -1434632758
+      iconos 2_74: -1304098097
+      iconos 2_225: -2090000387
+      iconos 2_497: -1795157669
+      iconos 2_527: -1852653527
+      iconos 2_76: -1286315128
+      iconos 2_394: -1021694338
+      iconos 2_445: 1059590890
+      iconos 2_176: -746571775
+      iconos 2_142: -2091024308
+      iconos 2_572: -1298097264
+      iconos 2_26: 776105597
+      iconos 2_114: -1229392717
+      iconos 2_506: 1541207228
+      iconos 2_257: -581688238
+      iconos 2_494: 1043834126
+      iconos 2_371: 181268583
+      iconos 2_124: -1886132767
+      iconos 2_218: -375142789
+      iconos 2_119: 1413387336
+      iconos 2_101: -1668442852
+      iconos 2_181: 1779947744
+      iconos 2_2: 411399067
+      iconos 2_83: -670077473
+      iconos 2_150: -1962019274
+      iconos 2_236: 868533151
+      iconos 2_175: 2034115036
+      iconos 2_193: -1404695524
+      iconos 2_243: 1469921755
+      iconos 2_252: -2033800740
+      iconos 2_103: -364319264
+      iconos 2_217: 796330890
+      iconos 2_95: -1690964111
+      iconos 2_1: -362873165
+      iconos 2_177: -1533107125
+      iconos 2_370: -1927555822
+      iconos 2_434: 1992765393
+      iconos 2_292: 337911452
+      iconos 2_70: -609385594
+      iconos 2_118: -1909755529
+      iconos 2_148: -1719464226
+      iconos 2_315: -799867468
+      iconos 2_346: -34415259
+      iconos 2_420: -1578421860
+      iconos 2_518: -519828841
+      iconos 2_393: -1038808953
+      iconos 2_422: -1324780411
+      iconos 2_520: 1855154654
+      iconos 2_469: 2019028639
+      iconos 2_427: -1142592777
+      iconos 2_380: 1965810082
+      iconos 2_453: -1521740189
+      iconos 2_57: 2029030271
+      iconos 2_560: -1198183928
+      iconos 2_199: -2138554789
+      iconos 2_245: -756253148
+      iconos 2_418: 2005830066
+      iconos 2_490: 22676786
+      iconos 2_381: 539890215
+      iconos 2_197: 290987163
+      iconos 2_133: 1029470819
+      iconos 2_146: -218524993
+      iconos 2_449: 386710682
+      iconos 2_359: 905302767
+      iconos 2_203: -1469106925
+      iconos 2_544: -1739465376
+      iconos 2_261: 885175183
+      iconos 2_447: -294828543
+      iconos 2_549: 342723844
+      iconos 2_357: 1548741015
+      iconos 2_265: 1960524172
+      iconos 2_295: -1527293420
+      iconos 2_517: -514909956
+      iconos 2_443: 394101047
+      iconos 2_234: 2045619463
+      iconos 2_440: -1550797426
+      iconos 2_308: 414648513
+      iconos 2_501: 986810950
+      iconos 2_536: 386436531
+      iconos 2_40: 1309316901
+      iconos 2_174: -1639101902
+      iconos 2_3: -1328056531
+      iconos 2_266: 1725937311
+      iconos 2_88: -2147422318
+      iconos 2_196: -760701693
+      iconos 2_253: -911847184
+      iconos 2_499: 1418916989
+      iconos 2_27: -912564450
+      iconos 2_383: 394676891
+      iconos 2_55: 1392806629
+      iconos 2_140: -1521145478
+      iconos 2_206: 436482685
+      iconos 2_428: -84622202
+      iconos 2_341: 1225714240
+      iconos 2_8: 49903662
+      iconos 2_92: -972342335
+      iconos 2_180: -163961072
+      iconos 2_282: 1179497269
+      iconos 2_462: -1212050349
+      iconos 2_555: -833553244
+      iconos 2_78: -537416906
+      iconos 2_492: -574940310
+      iconos 2_362: -1337798910
+      iconos 2_365: -1802128565
+      iconos 2_18: -1322101672
+      iconos 2_191: -1799473491
+      iconos 2_332: 560555089
+      iconos 2_459: -307706736
+      iconos 2_51: 1137699203
+      iconos 2_13: 850552055
+      iconos 2_304: 2130715193
+      iconos 2_491: -267049492
+      iconos 2_522: 131604628
+      iconos 2_570: 973354878
+      iconos 2_444: -413692154
+      iconos 2_516: 1593516296
+      iconos 2_317: -1404641834
+      iconos 2_200: -1748048307
+      iconos 2_237: 1614520450
+      iconos 2_349: -1320930140
+      iconos 2_392: 1344069760
+      iconos 2_112: 545024758
+      iconos 2_321: 1458600068
+      iconos 2_438: -1962009893
+      iconos 2_306: 2135265157
+      iconos 2_313: -590885964
+      iconos 2_448: -621354090
+      iconos 2_36: 524484815
+      iconos 2_54: -119482878
+      iconos 2_201: -786537113
+      iconos 2_102: 1082148803
+      iconos 2_16: 2096183256
+      iconos 2_215: 1037532765
+      iconos 2_421: 2058939397
+      iconos 2_289: -1758304528
+      iconos 2_325: -603772747
+      iconos 2_580: 1306741044
+      iconos 2_25: -470448200
+      iconos 2_216: 719483767
+      iconos 2_303: -800749584
+      iconos 2_589: 302547872
+      iconos 2_43: 1787810625
+      iconos 2_14: 1369088894
+      iconos 2_267: -508532286
+      iconos 2_214: 645041445
+      iconos 2_554: -809244577
+      iconos 2_419: -227260733
+      iconos 2_324: 817200431
+      iconos 2_104: -415407182
+      iconos 2_384: -893831769
+      iconos 2_505: 1054026298
+      iconos 2_483: -1580473044
+      iconos 2_502: 1913891600
+      iconos 2_406: 1710855524
+      iconos 2_566: 825109453
+      iconos 2_552: -640778347
+      iconos 2_568: 1374823142
+      iconos 2_63: 917267757
+      iconos 2_106: -1816564929
+      iconos 2_477: 811982064
+      iconos 2_479: 158653440
+      iconos 2_319: -348145770
+      iconos 2_436: 1411931926
+      iconos 2_249: 1069545535
+      iconos 2_184: -1838938698
+      iconos 2_330: 1494179294
+      iconos 2_588: 679718075
+      iconos 2_511: 173679569
+      iconos 2_219: -1047733913
+      iconos 2_288: -782947019
+      iconos 2_515: -1692735011
+      iconos 2_65: 200378882
+      iconos 2_358: -93589631
+      iconos 2_526: -483375635
+      iconos 2_22: -1674745115
+      iconos 2_299: 986071817
+      iconos 2_59: -720180076
+      iconos 2_300: 769136686
+      iconos 2_480: 783128522
+      iconos 2_519: -1489566126
+      iconos 2_577: -559948631
+      iconos 2_251: -306757495
+      iconos 2_583: -1607490036
+      iconos 2_342: 1459748294
+      iconos 2_111: -1985048781
+      iconos 2_553: 1775053699
+      iconos 2_386: -1668480241
+      iconos 2_493: -1921235106
+      iconos 2_262: -14754852
+      iconos 2_311: 312206329
+      iconos 2_513: 70402603
+      iconos 2_28: 2125214685
+      iconos 2_280: -972798375
+      iconos 2_361: 1955379308
+      iconos 2_540: -713630216
+      iconos 2_450: -931542859
+      iconos 2_240: -608246730
+      iconos 2_154: 1523847180
+      iconos 2_137: 585328651
+      iconos 2_369: -1657369565
+      iconos 2_374: -1222071889
+      iconos 2_538: -1669935787
+      iconos 2_23: 1554048066
+      iconos 2_19: 1373347570
+      iconos 2_455: 38226937
+      iconos 2_413: 1418924105
+      iconos 2_587: 998539002
+      iconos 2_270: -327564027
+      iconos 2_122: -73387002
+      iconos 2_537: 466229933
+      iconos 2_24: -1954059399
+      iconos 2_278: 1086139257
+      iconos 2_375: -791854420
+      iconos 2_75: 409399599
+      iconos 2_376: -1989934225
+      iconos 2_591: 406309671
+      iconos 2_188: 1422528197
+      iconos 2_211: 1244947556
+      iconos 2_230: -1578975278
+      iconos 2_10: -779646504
+      iconos 2_126: -745005490
+      iconos 2_287: 1049878327
+      iconos 2_279: 705976049
+      iconos 2_437: 1678716897
+      iconos 2_350: -255634723
+      iconos 2_212: -1552199261
+      iconos 2_220: -1447956589
+      iconos 2_348: -1810383543
+      iconos 2_507: 625454175
+      iconos 2_482: -559490814
+      iconos 2_487: -1133065662
+      iconos 2_423: -387557937
+      iconos 2_281: 1303275769
+      iconos 2_49: 702115412
+      iconos 2_328: -1892934804
+      iconos 2_233: -1694875654
+      iconos 2_496: 1747150320
+      iconos 2_195: -730158917
+      iconos 2_108: -394923637
+      iconos 2_238: 1065306816
+      iconos 2_12: 2114658920
+      iconos 2_123: 1007524853
+      iconos 2_354: 1342791255
+      iconos 2_338: 1882245406
+      iconos 2_409: 849070577
+      iconos 2_275: -2031044546
+      iconos 2_305: -1520745198
+      iconos 2_478: -573006593
+      iconos 2_185: 875053669
+      iconos 2_379: -200290406
+      iconos 2_58: -1008112840
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

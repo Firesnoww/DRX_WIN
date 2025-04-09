@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5450244004716f94b8f5cfb0fddb9870, type: 3}
+  m_Name: Atomo_Barita
+  m_EditorClassIdentifier: 
+  ColorBase: {r: 0, g: 0, b: 0, a: 0}
+  atomoPrefab: {fileID: 919132149155446097, guid: 5f54ab0e85c620e428d4eaac2d126f85,
+    type: 3}
+  nombreAtomo: Barita
+  infoAtomo: "Descripci\xF3n: Sulfato de bario, un mineral de alta densidad.\r\nAplicaciones:
+    Usado en perforaci\xF3n de pozos petroleros, producci\xF3n de caucho y papel,
+    y como material de contraste en radiograf\xEDas m\xE9dicas."
+  CellPara:
+  - 8.884
+  - 5.458
+  - 7.153
+  - 90
+  - 90
+  - 90
+  SpaceGru: Pnma
+  X_Ray: 1.541838
+  CellVol: 346.841
+  Density: 4.469
+  Max_Abs: 40.55289
+  RIR: 2.955

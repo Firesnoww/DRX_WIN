@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55674d4d0ac9faf43bf958730371a01f, type: 3}
+  m_Name: SceneOpenerData
+  m_EditorClassIdentifier: 
+  sceneGroups:
+  - groupName: DRX
+    scenes:
+    - {fileID: 102900000, guid: 51038afc2ac1c5748b482c4f822e6b99, type: 3}
+    - {fileID: 102900000, guid: 46ef9b20cdb8ada458107acb498aa81f, type: 3}
+    - {fileID: 102900000, guid: 9e73b87e9cf79da4abdc3754e0256512, type: 3}
