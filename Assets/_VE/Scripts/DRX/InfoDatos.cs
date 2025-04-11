@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using Unity.Mathematics;
-using UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets;
+
 
 public class InfoDatos : MonoBehaviour
 {

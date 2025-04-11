@@ -22,18 +22,5 @@ public class ColorAleatorio : MonoBehaviour
         mesh.sharedMaterial.SetFloat("_Color1", Random.Range(0f, 1f));
         mesh.sharedMaterial.SetFloat("_Color2", Random.Range(0f, 1f));
 
-        //// Create a new MaterialPropertyBlock
-        //MaterialPropertyBlock propertyBlock = new MaterialPropertyBlock();
-
-        //// Set a random color in the MaterialPropertyBlock
-        //propertyBlock.SetFloat("_Velocidad", Random.Range(0.2f, 4));
-        //propertyBlock.SetFloat("_Patron", Random.Range(1, 12));
-        //propertyBlock.SetFloat("_Margen", Random.Range(-1.51f, 5));
-        //propertyBlock.SetFloat("_Color1", Random.Range(0f, 1f));
-        //propertyBlock.SetFloat("_Color2", Random.Range(0f, 1f));
-
-        //// Apply the MaterialPropertyBlock to the GameObject
-        //mesh.SetPropertyBlock(propertyBlock);
-
     }
 }
