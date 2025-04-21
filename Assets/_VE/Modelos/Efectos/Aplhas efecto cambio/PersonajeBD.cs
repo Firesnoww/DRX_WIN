@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
 
@@ -150,7 +149,7 @@ public class PersonajeBD : MonoBehaviour
     /// <param name="idUsuario"> Cedula del usuario </param>
     /// <param name="procesador"> Referencia al scrip procesador de informacion </param>
     /// <returns></returns>
-  /*  public IEnumerator ObtenerPersonalizacionExterior(string idUsuario, Personalizacion3 pSalida)
+    public IEnumerator ObtenerPersonalizacionExterior(string idUsuario, Personalizacion3 pSalida)
     {
         // Creación del formulario
         WWWForm form = new WWWForm();
@@ -180,6 +179,5 @@ public class PersonajeBD : MonoBehaviour
                 Debug.LogError("Error al realizar la solicitud: " + www.error);
             }
         }
-    }*/
+    }
 }
-

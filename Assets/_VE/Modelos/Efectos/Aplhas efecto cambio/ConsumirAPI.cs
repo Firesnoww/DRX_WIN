@@ -1,4 +1,4 @@
-using System;
+Ôªøusing System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Networking;
@@ -23,7 +23,7 @@ public class ConsumirAPI : MonoBehaviour
     private string apiKey = "s1c4uc0ntr0ld34cc3s02019*";
 
 
-    // Objeto en el que se mostrar· en pantalla el error
+    // Objeto en el que se mostrar√° en pantalla el error
     public GameObject gmError;
     public TextMeshProUGUI txtError;
 
@@ -50,7 +50,7 @@ public class ConsumirAPI : MonoBehaviour
 
 
     /// <summary>
-    /// Metodo invocado desde el botÛn Iniciar en el Login para consumir el servicio
+    /// Metodo invocado desde el bot√≥n Iniciar en el Login para consumir el servicio
     /// </summary>
     public void Consumir()
     {
@@ -58,7 +58,7 @@ public class ConsumirAPI : MonoBehaviour
         SolicitudLogin solicitudLogin = new SolicitudLogin
         {
             Email = inputUsuario.text + "@pascualbravo.edu.co",
-            ContraseÒa = inputPassword.text
+            Contrase√±a = inputPassword.text
         };
 
         // Convertir el objeto a JSON
@@ -70,7 +70,7 @@ public class ConsumirAPI : MonoBehaviour
     }
 
     /// <summary>
-    /// Currutina empleada para consumir el serevicio donde se valida su recepciÛn y posterior lectura
+    /// Currutina empleada para consumir el serevicio donde se valida su recepci√≥n y posterior lectura
     /// </summary>
     /// <param name="jsonDato"> Objeto convertido en json para su manejo </param>
     IEnumerator PostData(string jsonDato)
@@ -87,7 +87,7 @@ public class ConsumirAPI : MonoBehaviour
         // Recibe la respuesta en el buffer para su almacenamiento
         solicitud.downloadHandler = new DownloadHandlerBuffer();
 
-        // Establecemos las cabeceras necesarias para indicar que los datos son JSON y aÒadimos la clave de autenticaciÛn (Authorization en este caso).
+        // Establecemos las cabeceras necesarias para indicar que los datos son JSON y a√±adimos la clave de autenticaci√≥n (Authorization en este caso).
         solicitud.SetRequestHeader("Content-Type", "application/json");
         solicitud.SetRequestHeader("Authorization", apiKey);
 
@@ -104,7 +104,7 @@ public class ConsumirAPI : MonoBehaviour
                 print("URL: " + solicitud.url);
             }
 
-            // Desactivar el indicador de carga despuÈs de recibir la respuesta
+            // Desactivar el indicador de carga despu√©s de recibir la respuesta
             imgCarga.SetActive(false);
             txtError.text = solicitud.error + "\n" + "Codigo de respuesta: " + solicitud.responseCode + "\n" + "URL: " + solicitud.url;
             gmError.SetActive(true);
@@ -128,7 +128,7 @@ public class ConsumirAPI : MonoBehaviour
             }
 
             // Validamos que los datos sean correctos para guardar los datos de usuario
-            if (loginResponse.Mensaje != "El usuario y/o contraseÒa son inv·lidos")
+            if (loginResponse.Mensaje != "El usuario y/o contrase√±a son inv√°lidos")
             {
                 AudioManager.Instance.PlayEfect(2);
                 envioDatosBD.id_usuario = int.Parse(loginResponse.Datos.Identificacion);
@@ -141,7 +141,7 @@ public class ConsumirAPI : MonoBehaviour
             else
             {
                 AudioManager.Instance.PlayEfect(3);
-                txtError.text = "Usuario o ContraseÒa invalidos, verifique e ingrese nuevamente";
+                txtError.text = "Usuario o Contrase√±a invalidos, verifique e ingrese nuevamente";
                 imgCarga.SetActive(false);
                 gmError.SetActive(true);
             }
@@ -150,11 +150,11 @@ public class ConsumirAPI : MonoBehaviour
 }
 
 [Serializable]
-// Clase que Representa los datos que enviar·s en la solicitud POST
+// Clase que Representa los datos que enviar√°s en la solicitud POST
 public class SolicitudLogin
 {
     public string Email;
-    public string ContraseÒa;
+    public string Contrase√±a;
 }
 
 [Serializable]
@@ -185,7 +185,7 @@ public class DatosUsuario
 
 
 [Serializable]
-// Clase que Representa la respuesta general que contiene un booleano de Èxito, un mensaje, y los datos de respuesta
+// Clase que Representa la respuesta general que contiene un booleano de √©xito, un mensaje, y los datos de respuesta
 public class LoginRespuesta
 {
     public bool Estado;
