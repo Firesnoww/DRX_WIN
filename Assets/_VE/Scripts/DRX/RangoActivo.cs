@@ -76,7 +76,7 @@ public class RangoActivo : MonoBehaviour
             StartCoroutine(playSonidoCerrar());
         }
 
-        StartCoroutine(Fade(Fresnel, 0f, 2f, 0.5f)); // Fade In
+        StartCoroutine(Fade(Fresnel, 2f, 0f, 0.5f)); // Fade Out
     }
 
     public IEnumerator playSonidoCerrar()
