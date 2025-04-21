@@ -71,6 +71,11 @@ public class ManagerScene : MonoBehaviour
                 
             }       
             yield return null;
-        }   
+        }
+        
+    }
+    public void Salir()
+    {
+        Application.Quit();
     }
 }

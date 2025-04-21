@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class RangoActivo : MonoBehaviour
 {
+    public bool TieneAnim = true;
     public Animator anim;
     public bool almacen;
     public AudioManager audioManager;
@@ -58,14 +59,16 @@ public class RangoActivo : MonoBehaviour
 
         StartCoroutine(Fade(Fresnel, 2f, 0f, 0.5f)); // Fade Out (se apaga porque está seleccionado)
 
-        anim.SetBool("Entro", true);
+        if (TieneAnim) { anim.SetBool("Entro", true); }
+        
         audioManager.PlayEfect(almacen ? 2 : 4);
     }
 
     public void DesactivarObjeto()
     {
         isSelected = false;
-        anim.SetBool("Entro", false);
+        if (TieneAnim) { anim.SetBool("Entro", false); }
+        
 
         if (almacen)
         {
