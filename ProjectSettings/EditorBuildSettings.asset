@@ -47,7 +47,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_VE/Scenes/Graficos/Taller Ensamble/HP_Taller.unity
     guid: d0528939563310b409aeb98328a7a360
-  - enabled: 0
+  - enabled: 1
     path: Assets/_VE/Scenes/Interactivos/WI_Login.unity
     guid: d18f3b6905bf02c41b3452346dc0ceae
   - enabled: 0
@@ -83,13 +83,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_VE/Scenes/Interactivos/VR_DRX.unity
     guid: 9e73b87e9cf79da4abdc3754e0256512
-  - enabled: 0
+  - enabled: 1
     path: Assets/_VE/Scenes/Constructores/C_Login.unity
     guid: 211ca8a18014b2144b2c3b59881bbc53
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b9e1065f576710d419be5295969237d6,
       type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f1befe0f22c101649bf7eb9a8a9d20f0,
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b43b4852240fec9459fa28267235c197,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 284d8e6d9aafbee4cb54752f6f1d6280,
       type: 2}
